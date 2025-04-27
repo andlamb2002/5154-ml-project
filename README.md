@@ -12,5 +12,5 @@ General-use Next Word Prediction model using a Bidirectional LSTM architecture t
 - Google Colab
 
 ## Links
-- [Streamlit App](https://andlamb2002-5154-ml-project-nwp-app-jykkoj.streamlit.app/)
-- [Final Report](https://docs.google.com/document/d/11dDUDRq74QYkZs1ILO3FA-xURXGMvb7w205UWax4lgI/edit?usp=sharing)
+[Streamlit App](https://andlamb2002-5154-ml-project-nwp-app-jykkoj.streamlit.app/)  
+[Final Report](https://docs.google.com/document/d/11dDUDRq74QYkZs1ILO3FA-xURXGMvb7w205UWax4lgI/edit?usp=sharing)
